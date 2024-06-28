@@ -1,1 +1,7 @@
 [Config]
+1:
+output_file=
+range_files=
+hand_files=
+
+
