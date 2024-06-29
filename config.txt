@@ -1,7 +1,16 @@
 [Config]
 1:
-output_file=
-range_files=
-hand_files=
+output_file=output_1.txt
+range_file=test_range.txt
+hand_files=hand_1.ohh
 
+STOP
+2:
+output_file=beep.txt
+range_file=boop.txt
+hand_files=cleep.ohh
 
+3:
+output_file=cool.txt
+range_file=blop.txt
+hand_files=fleep.txt,3.txt,4.txt
