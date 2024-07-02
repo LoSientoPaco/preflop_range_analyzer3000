@@ -1,0 +1,4272 @@
+{
+    "ohh": {
+        "x-seat_map_size": 0,
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "action": "Post Ante",
+                        "amount": 300.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 1,
+                        "action": "Post Ante",
+                        "amount": 300.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 2,
+                        "action": "Post Ante",
+                        "amount": 300.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 3,
+                        "action": "Post Ante",
+                        "amount": 300.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Post Ante",
+                        "amount": 300.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 5,
+                        "action": "Post Ante",
+                        "amount": 300.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 0,
+                        "action": "Post SB",
+                        "amount": 1500.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 1,
+                        "action": "Post BB",
+                        "amount": 3000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 0,
+                        "cards": [
+                            "3h",
+                            "Ad"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 1,
+                        "cards": [
+                            "Kd",
+                            "Jc"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 2,
+                        "cards": [
+                            "Jd",
+                            "7c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 3,
+                        "cards": [
+                            "8d",
+                            "5h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 4,
+                        "cards": [
+                            "Js",
+                            "2h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 5,
+                        "cards": [
+                            "7h",
+                            "7d"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 3,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 4,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 5,
+                        "action": "Raise",
+                        "amount": 233346.00,
+                        "is_allin": true
+                    },
+                    {
+                        "action_number": 19,
+                        "player_id": 0,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 20,
+                        "player_id": 1,
+                        "action": "Call",
+                        "amount": 6170.00,
+                        "is_allin": true
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "cards": [
+                    "Th",
+                    "4h",
+                    "As"
+                ],
+                "street": "Flop",
+                "actions": [
+                ]
+            },
+            {
+                "id": 2,
+                "cards": [
+                    "9c"
+                ],
+                "street": "Turn",
+                "actions": [
+                ]
+            },
+            {
+                "id": 3,
+                "cards": [
+                    "6h"
+                ],
+                "street": "River",
+                "actions": [
+                ]
+            },
+            {
+                "id": 4,
+                "street": "Showdown",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 1,
+                        "cards": [
+                            "Kd",
+                            "Jc"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 5,
+                        "cards": [
+                            "7h",
+                            "7d"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2024-06-21T17:44:37",
+        "table_name": "14",
+        "players": [
+            {
+                "name": "P45-fe16932e1e3f177569cb1262379c92bb",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 35578.00,
+                "seat": 1
+            },
+            {
+                "name": "P100-6e1b802206b470443806509f9cfad35f",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 9470.00,
+                "seat": 2
+            },
+            {
+                "name": "P90-2f4fa81f7eff0c43e383a2f2bca42d95",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 27380.00,
+                "seat": 3
+            },
+            {
+                "name": "P93-2207aefada19b88bd61ed8f03dc3b1ac",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 48410.00,
+                "seat": 4
+            },
+            {
+                "name": "P47-2fab6c3b1dcaf1422bb3a40edf212551",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 93093.00,
+                "seat": 5
+            },
+            {
+                "name": "Hero",
+                "id": 5,
+                "player_bounty": 0,
+                "starting_stack": 233646.00,
+                "seat": 6
+            }
+        ],
+        "game_number": "4989573670",
+        "x-max_seats_limit": 6,
+        "ante_amount": 300.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 6,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "x-detected_table_size": 6,
+        "hero_player_id": 5,
+        "small_blind_amount": 1500.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 5,
+                        "win_amount": 21640.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 21640.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2024-06-21T17:44:37",
+            "type": "MTT",
+            "buyin_amount": 5.00,
+            "currency": "USD",
+            "fee_amount": 0.50,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "65174756",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 3000.00,
+        "table_size": 9
+    }
+}
+
+{
+    "ohh": {
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "action": "Post Ante",
+                        "amount": 160.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 1,
+                        "action": "Post Ante",
+                        "amount": 160.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 2,
+                        "action": "Post Ante",
+                        "amount": 160.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 3,
+                        "action": "Post Ante",
+                        "amount": 160.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Post Ante",
+                        "amount": 160.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 5,
+                        "action": "Post Ante",
+                        "amount": 160.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 6,
+                        "action": "Post Ante",
+                        "amount": 160.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 0,
+                        "action": "Post SB",
+                        "amount": 800.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 1,
+                        "action": "Post BB",
+                        "amount": 1600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 0,
+                        "cards": [
+                            "9c",
+                            "9h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 1,
+                        "cards": [
+                            "4s",
+                            "Jh"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 2,
+                        "cards": [
+                            "3h",
+                            "5d"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 3,
+                        "cards": [
+                            "Js",
+                            "Qh"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 4,
+                        "cards": [
+                            "6s",
+                            "4c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 5,
+                        "cards": [
+                            "Qc",
+                            "Ah"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 6,
+                        "cards": [
+                            "Qs",
+                            "Ks"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 3,
+                        "action": "Raise",
+                        "amount": 3500.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 19,
+                        "player_id": 4,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 20,
+                        "player_id": 5,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 21,
+                        "player_id": 6,
+                        "action": "Raise",
+                        "amount": 12715.00,
+                        "is_allin": true
+                    },
+                    {
+                        "action_number": 22,
+                        "player_id": 0,
+                        "action": "Call",
+                        "amount": 11915.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 23,
+                        "player_id": 1,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 24,
+                        "player_id": 3,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "cards": [
+                    "Kc",
+                    "2c",
+                    "Qd"
+                ],
+                "street": "Flop",
+                "actions": [
+                ]
+            },
+            {
+                "id": 2,
+                "cards": [
+                    "2h"
+                ],
+                "street": "Turn",
+                "actions": [
+                ]
+            },
+            {
+                "id": 3,
+                "cards": [
+                    "4h"
+                ],
+                "street": "River",
+                "actions": [
+                ]
+            },
+            {
+                "id": 4,
+                "street": "Showdown",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "cards": [
+                            "9c",
+                            "9h"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 6,
+                        "cards": [
+                            "Qs",
+                            "Ks"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2024-06-20T17:15:25",
+        "table_name": "2",
+        "players": [
+            {
+                "name": "P55-6155110a22b38e55cee581d70221b2cf",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 71884.00,
+                "seat": 1
+            },
+            {
+                "name": "P46-b43a283ee4d1652b9e00686a62872509",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 55732.00,
+                "seat": 2
+            },
+            {
+                "name": "P92-2ac099ca08d945d9065a031d76a378b3",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 35606.00,
+                "seat": 3
+            },
+            {
+                "name": "P89-dcd2ee01d9dc4af3110ba41c6df16233",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 51473.00,
+                "seat": 4
+            },
+            {
+                "name": "P122-aeb53d11715cb05f4cae9663007b267d",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 21656.00,
+                "seat": 5
+            },
+            {
+                "name": "P65-9c1f691a842e639e9bec39c2230b1a32",
+                "id": 5,
+                "player_bounty": 0,
+                "starting_stack": 22695.00,
+                "seat": 6
+            },
+            {
+                "name": "Hero",
+                "id": 6,
+                "player_bounty": 0,
+                "starting_stack": 12875.00,
+                "seat": 7
+            }
+        ],
+        "game_number": "4989001563",
+        "ante_amount": 160.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 7,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "hero_player_id": 6,
+        "small_blind_amount": 800.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 6,
+                        "win_amount": 31650.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 31650.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2024-06-20T17:15:25",
+            "type": "MTT",
+            "buyin_amount": 5.00,
+            "currency": "USD",
+            "fee_amount": 0.50,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "65174755",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 1600.00,
+        "table_size": 10
+    }
+}
+
+{
+    "ohh": {
+        "x-seat_map_size": 0,
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "action": "Post Ante",
+                        "amount": 100.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 1,
+                        "action": "Post Ante",
+                        "amount": 100.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 2,
+                        "action": "Post Ante",
+                        "amount": 100.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 3,
+                        "action": "Post Ante",
+                        "amount": 100.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Post Ante",
+                        "amount": 100.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 4,
+                        "action": "Post SB",
+                        "amount": 500.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 0,
+                        "action": "Post BB",
+                        "amount": 1000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 0,
+                        "cards": [
+                            "6c",
+                            "Kh"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 1,
+                        "cards": [
+                            "9d",
+                            "7h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 2,
+                        "cards": [
+                            "9c",
+                            "8c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 3,
+                        "cards": [
+                            "Th",
+                            "Tc"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 4,
+                        "cards": [
+                            "Kc",
+                            "Ac"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 1,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 2,
+                        "action": "Raise",
+                        "amount": 2000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 3,
+                        "action": "Raise",
+                        "amount": 6000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 4,
+                        "action": "Raise",
+                        "amount": 21000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 0,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 19,
+                        "player_id": 3,
+                        "action": "Raise",
+                        "amount": 51113.00,
+                        "is_allin": true
+                    },
+                    {
+                        "action_number": 20,
+                        "player_id": 4,
+                        "action": "Call",
+                        "amount": 22174.00,
+                        "is_allin": true
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "cards": [
+                    "Qs",
+                    "6s",
+                    "Js"
+                ],
+                "street": "Flop",
+                "actions": [
+                ]
+            },
+            {
+                "id": 2,
+                "cards": [
+                    "Qh"
+                ],
+                "street": "Turn",
+                "actions": [
+                ]
+            },
+            {
+                "id": 3,
+                "cards": [
+                    "4h"
+                ],
+                "street": "River",
+                "actions": [
+                ]
+            },
+            {
+                "id": 4,
+                "street": "Showdown",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 3,
+                        "cards": [
+                            "Th",
+                            "Tc"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 4,
+                        "cards": [
+                            "Kc",
+                            "Ac"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2024-06-17T18:53:16",
+        "table_name": "1",
+        "players": [
+            {
+                "name": "P13-896b788d7e2ca0619897d5e6d0b7795a",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 75074.00,
+                "seat": 1
+            },
+            {
+                "name": "P56-e582ba5841b34fd4e956c6f7be9a94b3",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 102343.00,
+                "seat": 2
+            },
+            {
+                "name": "P126-bd65f95cf990aec036f33e98c50fd54f",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 18091.00,
+                "seat": 3
+            },
+            {
+                "name": "Hero",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 57213.00,
+                "seat": 4
+            },
+            {
+                "name": "P86-1a20b660113e3bdae515b9feb9aea542",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 43774.00,
+                "seat": 5
+            }
+        ],
+        "game_number": "4987446212",
+        "x-max_seats_limit": 6,
+        "ante_amount": 100.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 4,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "x-detected_table_size": 6,
+        "hero_player_id": 3,
+        "small_blind_amount": 500.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 3,
+                        "win_amount": 90848.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 90848.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2024-06-17T18:53:16",
+            "type": "MTT",
+            "buyin_amount": 20.00,
+            "currency": "USD",
+            "fee_amount": 2.00,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "65178261",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 1000.00,
+        "table_size": 9
+    }
+}
+
+{
+    "ohh": {
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "action": "Post Ante",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 1,
+                        "action": "Post Ante",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 2,
+                        "action": "Post Ante",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 3,
+                        "action": "Post Ante",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Post Ante",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 5,
+                        "action": "Post Ante",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 6,
+                        "action": "Post Ante",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 7,
+                        "action": "Post Ante",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 8,
+                        "action": "Post Ante",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 6,
+                        "action": "Post SB",
+                        "amount": 200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 7,
+                        "action": "Post BB",
+                        "amount": 400.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 0,
+                        "cards": [
+                            "3d",
+                            "2h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 1,
+                        "cards": [
+                            "4d",
+                            "5c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 2,
+                        "cards": [
+                            "5h",
+                            "Jh"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 3,
+                        "cards": [
+                            "3s",
+                            "Kd"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 4,
+                        "cards": [
+                            "9c",
+                            "2s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 5,
+                        "cards": [
+                            "6d",
+                            "Qd"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 6,
+                        "cards": [
+                            "5s",
+                            "8h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 19,
+                        "player_id": 7,
+                        "cards": [
+                            "9d",
+                            "Qc"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 20,
+                        "player_id": 8,
+                        "cards": [
+                            "Qh",
+                            "3h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 21,
+                        "player_id": 8,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 22,
+                        "player_id": 0,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 23,
+                        "player_id": 1,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 24,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 25,
+                        "player_id": 3,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 26,
+                        "player_id": 4,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 27,
+                        "player_id": 5,
+                        "action": "Raise",
+                        "amount": 800.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 28,
+                        "player_id": 6,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 29,
+                        "player_id": 7,
+                        "action": "Raise",
+                        "amount": 2497.00,
+                        "is_allin": true
+                    },
+                    {
+                        "action_number": 30,
+                        "player_id": 5,
+                        "action": "Call",
+                        "amount": 2097.00,
+                        "is_allin": false
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "cards": [
+                    "Ks",
+                    "2c",
+                    "As"
+                ],
+                "street": "Flop",
+                "actions": [
+                ]
+            },
+            {
+                "id": 2,
+                "cards": [
+                    "Kh"
+                ],
+                "street": "Turn",
+                "actions": [
+                ]
+            },
+            {
+                "id": 3,
+                "cards": [
+                    "Jd"
+                ],
+                "street": "River",
+                "actions": [
+                ]
+            },
+            {
+                "id": 4,
+                "street": "Showdown",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 5,
+                        "cards": [
+                            "6d",
+                            "Qd"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 7,
+                        "cards": [
+                            "9d",
+                            "Qc"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2022-05-01T23:16:13",
+        "table_name": "19",
+        "players": [
+            {
+                "name": "P145-6313a3fdeb775bde37d0dd424399e122",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 48598.00,
+                "seat": 1
+            },
+            {
+                "name": "P186-0b12d278a3753770811b8cd6364d3b6c",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 15471.00,
+                "seat": 2
+            },
+            {
+                "name": "P621-031e319e764f148d08f9901c5d527549",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 9930.00,
+                "seat": 3
+            },
+            {
+                "name": "P469-9b55ba42d24e501adfe93d7be5811670",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 34030.00,
+                "seat": 4
+            },
+            {
+                "name": "P73-b9934ea380a10e70aea04be573d2b0f0",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 26562.00,
+                "seat": 5
+            },
+            {
+                "name": "Hero",
+                "id": 5,
+                "player_bounty": 0,
+                "starting_stack": 17579.00,
+                "seat": 6
+            },
+            {
+                "name": "P222-b8328ca2db41a1f4fe68d94b8c4e5780",
+                "id": 6,
+                "player_bounty": 0,
+                "starting_stack": 16733.00,
+                "seat": 7
+            },
+            {
+                "name": "P31-638c00a9931102ebb653db83b6fbbf97",
+                "id": 7,
+                "player_bounty": 0,
+                "starting_stack": 2937.00,
+                "seat": 8
+            },
+            {
+                "name": "P276-fce39e3f6b3517e111d51a1b2e9fbc1b",
+                "id": 8,
+                "player_bounty": 0,
+                "starting_stack": 11749.00,
+                "seat": 9
+            }
+        ],
+        "game_number": "4530037638",
+        "ante_amount": 40.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 6,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "hero_player_id": 5,
+        "small_blind_amount": 200.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 5,
+                        "win_amount": 3177.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    },
+                    {
+                        "player_id": 7,
+                        "win_amount": 3177.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 6354.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2022-05-01T23:16:13",
+            "type": "MTT",
+            "buyin_amount": 15.00,
+            "currency": "USD",
+            "fee_amount": 1.50,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "47887331",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 400.00,
+        "table_size": 10
+    }
+}
+
+{
+    "ohh": {
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 7,
+                        "action": "Post SB",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 0,
+                        "action": "Post BB",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 0,
+                        "cards": [
+                            "4s",
+                            "7c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 1,
+                        "cards": [
+                            "2d",
+                            "3d"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 2,
+                        "cards": [
+                            "6d",
+                            "Qc"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 3,
+                        "cards": [
+                            "8h",
+                            "5h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 4,
+                        "cards": [
+                            "5s",
+                            "6s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 5,
+                        "cards": [
+                            "4h",
+                            "7s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 6,
+                        "cards": [
+                            "Jh",
+                            "Th"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 7,
+                        "cards": [
+                            "5c",
+                            "8s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 1,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 3,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 4,
+                        "action": "Call",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 5,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 6,
+                        "action": "Call",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 7,
+                        "action": "Call",
+                        "amount": 40.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 0,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "cards": [
+                    "3c",
+                    "Ac",
+                    "8c"
+                ],
+                "street": "Flop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 7,
+                        "action": "Check",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 4,
+                        "action": "Check",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 6,
+                        "action": "Bet",
+                        "amount": 138.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 7,
+                        "action": "Call",
+                        "amount": 138.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "cards": [
+                    "Kc"
+                ],
+                "street": "Turn",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 7,
+                        "action": "Bet",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 6,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2024-06-20T15:08:34",
+        "table_name": "16",
+        "players": [
+            {
+                "name": "P54-2eed9a11c1ab01bff922c5bf2892d0ed",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 10766.00,
+                "seat": 1
+            },
+            {
+                "name": "P14-574bfe7bff5bc348f67c46ea13c400dc",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 11601.00,
+                "seat": 2
+            },
+            {
+                "name": "P38-8bb6d2a23bff4687d0582379e51379aa",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 6985.00,
+                "seat": 3
+            },
+            {
+                "name": "P45-e264926da1e7a0b9e3e835faa46e890b",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 12895.00,
+                "seat": 4
+            },
+            {
+                "name": "P16-da49876ad98aa2839edaa62b17695c74",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 13598.00,
+                "seat": 5
+            },
+            {
+                "name": "P49-b888ed92f8c7a24fb0fe345e059b61b8",
+                "id": 5,
+                "player_bounty": 0,
+                "starting_stack": 10712.00,
+                "seat": 6
+            },
+            {
+                "name": "Hero",
+                "id": 6,
+                "player_bounty": 0,
+                "starting_stack": 7780.00,
+                "seat": 7
+            },
+            {
+                "name": "P48-35e14db5ef0f0cf44cb0a0a0679d5fd6",
+                "id": 7,
+                "player_bounty": 0,
+                "starting_stack": 9812.00,
+                "seat": 8
+            }
+        ],
+        "game_number": "4988963243",
+        "ante_amount": 0.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 7,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "hero_player_id": 6,
+        "small_blind_amount": 40.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 7,
+                        "win_amount": 596.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 596.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2024-06-20T15:08:34",
+            "type": "MTT",
+            "buyin_amount": 5.00,
+            "currency": "USD",
+            "fee_amount": 0.50,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "65174755",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 80.00,
+        "table_size": 10
+    }
+}
+
+{
+    "ohh": {
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "action": "Post Ante",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 1,
+                        "action": "Post Ante",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 2,
+                        "action": "Post Ante",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 3,
+                        "action": "Post Ante",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Post Ante",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 5,
+                        "action": "Post Ante",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 6,
+                        "action": "Post Ante",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 7,
+                        "action": "Post Ante",
+                        "amount": 80.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 0,
+                        "action": "Post SB",
+                        "amount": 400.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 1,
+                        "action": "Post BB",
+                        "amount": 800.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 0,
+                        "cards": [
+                            "5s",
+                            "9s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 1,
+                        "cards": [
+                            "Kd",
+                            "Ah"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 2,
+                        "cards": [
+                            "2h",
+                            "Kc"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 3,
+                        "cards": [
+                            "4h",
+                            "Tc"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 4,
+                        "cards": [
+                            "7h",
+                            "3d"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 5,
+                        "cards": [
+                            "Ks",
+                            "Jh"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 6,
+                        "cards": [
+                            "Qd",
+                            "6s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 7,
+                        "cards": [
+                            "Jc",
+                            "7d"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 19,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 20,
+                        "player_id": 3,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 21,
+                        "player_id": 4,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 22,
+                        "player_id": 5,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 23,
+                        "player_id": 6,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 24,
+                        "player_id": 7,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 25,
+                        "player_id": 0,
+                        "action": "Call",
+                        "amount": 400.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 26,
+                        "player_id": 1,
+                        "action": "Raise",
+                        "amount": 3200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 27,
+                        "player_id": 0,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2024-06-21T16:46:01",
+        "table_name": "3",
+        "players": [
+            {
+                "name": "Hero",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 49424.00,
+                "seat": 1
+            },
+            {
+                "name": "P37-fa1b32385faac7a8441c646185f3e350",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 41277.00,
+                "seat": 2
+            },
+            {
+                "name": "P57-44f98f75f0860e150eb5861743b1e447",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 67639.00,
+                "seat": 3
+            },
+            {
+                "name": "P101-aa50a4e347ee039f957786279caaba89",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 9840.00,
+                "seat": 4
+            },
+            {
+                "name": "P99-541a37e0b976e573e7089d0a625cfb24",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 29920.00,
+                "seat": 5
+            },
+            {
+                "name": "P79-25a65952c014825f377e113805f443f6",
+                "id": 5,
+                "player_bounty": 0,
+                "starting_stack": 5100.00,
+                "seat": 6
+            },
+            {
+                "name": "P21-963e1cb30fe99908a621f10da786d7b2",
+                "id": 6,
+                "player_bounty": 0,
+                "starting_stack": 14801.00,
+                "seat": 7
+            },
+            {
+                "name": "P20-8833f5c0f21f37dba7febcbab416f9bc",
+                "id": 7,
+                "player_bounty": 0,
+                "starting_stack": 42960.00,
+                "seat": 8
+            }
+        ],
+        "game_number": "4989553302",
+        "ante_amount": 80.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 8,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "hero_player_id": 0,
+        "small_blind_amount": 400.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 1,
+                        "win_amount": 2240.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 2240.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2024-06-21T16:46:01",
+            "type": "MTT",
+            "buyin_amount": 5.00,
+            "currency": "USD",
+            "fee_amount": 0.50,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "65174756",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 800.00,
+        "table_size": 10
+    }
+}
+
+{
+    "ohh": {
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "action": "Post Ante",
+                        "amount": 4000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 1,
+                        "action": "Post Ante",
+                        "amount": 4000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 2,
+                        "action": "Post Ante",
+                        "amount": 4000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 3,
+                        "action": "Post Ante",
+                        "amount": 4000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Post Ante",
+                        "amount": 4000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 5,
+                        "action": "Post Ante",
+                        "amount": 4000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 6,
+                        "action": "Post Ante",
+                        "amount": 4000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 7,
+                        "action": "Post Ante",
+                        "amount": 4000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 8,
+                        "action": "Post Ante",
+                        "amount": 4000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 0,
+                        "action": "Post SB",
+                        "amount": 10000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 1,
+                        "action": "Post BB",
+                        "amount": 20000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 0,
+                        "cards": [
+                            "4s",
+                            "7s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 1,
+                        "cards": [
+                            "Qc",
+                            "5h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 2,
+                        "cards": [
+                            "Kd",
+                            "3h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 3,
+                        "cards": [
+                            "6d",
+                            "Ac"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 4,
+                        "cards": [
+                            "5s",
+                            "9c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 5,
+                        "cards": [
+                            "Tc",
+                            "8d"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 6,
+                        "cards": [
+                            "Qh",
+                            "6h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 19,
+                        "player_id": 7,
+                        "cards": [
+                            "As",
+                            "3s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 20,
+                        "player_id": 8,
+                        "cards": [
+                            "7c",
+                            "Jh"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 21,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 22,
+                        "player_id": 3,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 23,
+                        "player_id": 4,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 24,
+                        "player_id": 5,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 25,
+                        "player_id": 6,
+                        "action": "Raise",
+                        "amount": 50000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 26,
+                        "player_id": 7,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 27,
+                        "player_id": 8,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 28,
+                        "player_id": 0,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 29,
+                        "player_id": 1,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2024-06-21T19:30:13",
+        "table_name": "26",
+        "players": [
+            {
+                "name": "P717-8af93fee628ca86ad5bb0f8a3fba1230",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 179348.00,
+                "seat": 1
+            },
+            {
+                "name": "P876-ee391897c5955d22590adc9f799a63b0",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 794004.00,
+                "seat": 2
+            },
+            {
+                "name": "P559-215137deeb3ee9fcf3ac1ebb6420683d",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 266708.00,
+                "seat": 3
+            },
+            {
+                "name": "Hero",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 159863.00,
+                "seat": 4
+            },
+            {
+                "name": "P431-ced48394d02869decff58873a686242c",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 554366.00,
+                "seat": 5
+            },
+            {
+                "name": "P465-f8101c8936b83f919080b16c9f0d1108",
+                "id": 5,
+                "player_bounty": 0,
+                "starting_stack": 389969.00,
+                "seat": 6
+            },
+            {
+                "name": "P302-88c4396dc36c144a71255917b34a886d",
+                "id": 6,
+                "player_bounty": 0,
+                "starting_stack": 2404774.00,
+                "seat": 7
+            },
+            {
+                "name": "P647-b4fff9395c3fc05e943d853c1786b3fe",
+                "id": 7,
+                "player_bounty": 0,
+                "starting_stack": 646465.00,
+                "seat": 8
+            },
+            {
+                "name": "P907-09dfa6bf47d24b7c7a21cfd392564822",
+                "id": 8,
+                "player_bounty": 0,
+                "starting_stack": 463414.00,
+                "seat": 9
+            }
+        ],
+        "game_number": "4989614669",
+        "ante_amount": 4000.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 9,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "hero_player_id": 3,
+        "small_blind_amount": 10000.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 6,
+                        "win_amount": 86000.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 86000.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2024-06-21T19:30:13",
+            "type": "MTT",
+            "buyin_amount": 10.00,
+            "currency": "USD",
+            "fee_amount": 1.00,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "67222085",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 20000.00,
+        "table_size": 10
+    }
+}
+
+{
+    "ohh": {
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "action": "Post Ante",
+                        "amount": 7.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 1,
+                        "action": "Post Ante",
+                        "amount": 7.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 2,
+                        "action": "Post Ante",
+                        "amount": 7.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 3,
+                        "action": "Post Ante",
+                        "amount": 7.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Post Ante",
+                        "amount": 7.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 5,
+                        "action": "Post Ante",
+                        "amount": 7.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 6,
+                        "action": "Post Ante",
+                        "amount": 7.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 7,
+                        "action": "Post Ante",
+                        "amount": 7.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 8,
+                        "action": "Post Ante",
+                        "amount": 7.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 7,
+                        "action": "Post SB",
+                        "amount": 35.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 8,
+                        "action": "Post BB",
+                        "amount": 70.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 0,
+                        "cards": [
+                            "4d",
+                            "4h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 1,
+                        "cards": [
+                            "2d",
+                            "Kc"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 2,
+                        "cards": [
+                            "Ks",
+                            "Th"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 3,
+                        "cards": [
+                            "3c",
+                            "8d"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 4,
+                        "cards": [
+                            "Js",
+                            "2c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 5,
+                        "cards": [
+                            "9s",
+                            "Kd"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 6,
+                        "cards": [
+                            "4c",
+                            "4s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 19,
+                        "player_id": 7,
+                        "cards": [
+                            "7d",
+                            "Qc"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 20,
+                        "player_id": 8,
+                        "cards": [
+                            "6c",
+                            "Qs"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 21,
+                        "player_id": 0,
+                        "action": "Call",
+                        "amount": 70.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 22,
+                        "player_id": 1,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 23,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 24,
+                        "player_id": 3,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 25,
+                        "player_id": 4,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 26,
+                        "player_id": 5,
+                        "action": "Raise",
+                        "amount": 300.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 27,
+                        "player_id": 6,
+                        "action": "Call",
+                        "amount": 300.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 28,
+                        "player_id": 7,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 29,
+                        "player_id": 8,
+                        "action": "Call",
+                        "amount": 230.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 30,
+                        "player_id": 0,
+                        "action": "Call",
+                        "amount": 230.00,
+                        "is_allin": false
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "cards": [
+                    "Tc",
+                    "Td",
+                    "5s"
+                ],
+                "street": "Flop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 8,
+                        "action": "Check",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 0,
+                        "action": "Check",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 5,
+                        "action": "Check",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 6,
+                        "action": "Check",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "cards": [
+                    "3d"
+                ],
+                "street": "Turn",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 8,
+                        "action": "Check",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 0,
+                        "action": "Bet",
+                        "amount": 760.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 5,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 6,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 8,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2022-05-01T21:08:34",
+        "table_name": "19",
+        "players": [
+            {
+                "name": "P145-6313a3fdeb775bde37d0dd424399e122",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 19164.00,
+                "seat": 1
+            },
+            {
+                "name": "P186-0b12d278a3753770811b8cd6364d3b6c",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 10000.00,
+                "seat": 2
+            },
+            {
+                "name": "P53-b7efc13cfd3064a9549562444608a05c",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 9515.00,
+                "seat": 3
+            },
+            {
+                "name": "P2-e02bfa3ab40bf238855f14f0ba1e27f9",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 13089.00,
+                "seat": 4
+            },
+            {
+                "name": "P73-b9934ea380a10e70aea04be573d2b0f0",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 9763.00,
+                "seat": 5
+            },
+            {
+                "name": "Hero",
+                "id": 5,
+                "player_bounty": 0,
+                "starting_stack": 11738.00,
+                "seat": 6
+            },
+            {
+                "name": "P155-dbfeb75916fe36cc63f1a10728c5ef7b",
+                "id": 6,
+                "player_bounty": 0,
+                "starting_stack": 8764.00,
+                "seat": 7
+            },
+            {
+                "name": "P31-638c00a9931102ebb653db83b6fbbf97",
+                "id": 7,
+                "player_bounty": 0,
+                "starting_stack": 13683.00,
+                "seat": 8
+            },
+            {
+                "name": "P30-7df215cc40d2b2ad04d3b5f62780deda",
+                "id": 8,
+                "player_bounty": 0,
+                "starting_stack": 17873.00,
+                "seat": 9
+            }
+        ],
+        "game_number": "4529951381",
+        "ante_amount": 7.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 7,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "hero_player_id": 5,
+        "small_blind_amount": 35.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 0,
+                        "win_amount": 1298.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 1298.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2022-05-01T21:08:34",
+            "type": "MTT",
+            "buyin_amount": 15.00,
+            "currency": "USD",
+            "fee_amount": 1.50,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "47887331",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 70.00,
+        "table_size": 10
+    }
+}
+
+{
+    "ohh": {
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 1,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 2,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 3,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 5,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 6,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 7,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 8,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 0,
+                        "action": "Post SB",
+                        "amount": 1500.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 1,
+                        "action": "Post BB",
+                        "amount": 3000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 0,
+                        "cards": [
+                            "3s",
+                            "9c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 1,
+                        "cards": [
+                            "3d",
+                            "Ts"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 2,
+                        "cards": [
+                            "Js",
+                            "3h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 3,
+                        "cards": [
+                            "Ad",
+                            "9h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 4,
+                        "cards": [
+                            "2h",
+                            "9d"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 5,
+                        "cards": [
+                            "5s",
+                            "5h"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 6,
+                        "cards": [
+                            "4h",
+                            "2s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 19,
+                        "player_id": 7,
+                        "cards": [
+                            "4d",
+                            "Jh"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 20,
+                        "player_id": 8,
+                        "cards": [
+                            "Td",
+                            "Kh"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 21,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 22,
+                        "player_id": 3,
+                        "action": "Raise",
+                        "amount": 6000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 23,
+                        "player_id": 4,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 24,
+                        "player_id": 5,
+                        "action": "Call",
+                        "amount": 6000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 25,
+                        "player_id": 6,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 26,
+                        "player_id": 7,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 27,
+                        "player_id": 8,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 28,
+                        "player_id": 0,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 29,
+                        "player_id": 1,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "cards": [
+                    "Ac",
+                    "7h",
+                    "As"
+                ],
+                "street": "Flop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 3,
+                        "action": "Check",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 5,
+                        "action": "Check",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "cards": [
+                    "8h"
+                ],
+                "street": "Turn",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 3,
+                        "action": "Bet",
+                        "amount": 16425.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 5,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2024-06-14T15:16:37",
+        "table_name": "13",
+        "players": [
+            {
+                "name": "P148-ee8beb037e866d64879d40fdee76dd9e",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 213276.00,
+                "seat": 1
+            },
+            {
+                "name": "P236-876d51a8c865fa6422912dc5d274a826",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 87688.00,
+                "seat": 2
+            },
+            {
+                "name": "P62-553a227190264ca6b0c3a2362ad3804f",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 354161.00,
+                "seat": 3
+            },
+            {
+                "name": "P99-cdc5c3a1eb9de26cc014a088f399e08c",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 212918.00,
+                "seat": 4
+            },
+            {
+                "name": "P206-6f5fca51fca4174a92b1400e81ba5e28",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 83638.00,
+                "seat": 5
+            },
+            {
+                "name": "Hero",
+                "id": 5,
+                "player_bounty": 0,
+                "starting_stack": 327994.00,
+                "seat": 6
+            },
+            {
+                "name": "P143-b2b21527cfd417f884acd1cf44a63090",
+                "id": 6,
+                "player_bounty": 0,
+                "starting_stack": 92800.00,
+                "seat": 7
+            },
+            {
+                "name": "P1-b301269bf9e567702f9e1197c87a6322",
+                "id": 7,
+                "player_bounty": 0,
+                "starting_stack": 122818.00,
+                "seat": 8
+            },
+            {
+                "name": "P227-ba38df73583a8fe0d9bb13731f6890e0",
+                "id": 8,
+                "player_bounty": 0,
+                "starting_stack": 100588.00,
+                "seat": 9
+            }
+        ],
+        "game_number": "4985745684",
+        "ante_amount": 600.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 9,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "hero_player_id": 5,
+        "small_blind_amount": 1500.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 3,
+                        "win_amount": 21900.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 21900.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2024-06-14T15:16:37",
+            "type": "MTT",
+            "buyin_amount": 15.00,
+            "currency": "USD",
+            "fee_amount": 1.50,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "67220616",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 3000.00,
+        "table_size": 10
+    }
+}
+
+{
+    "ohh": {
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 1,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 2,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 3,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 5,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 6,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 7,
+                        "action": "Post Ante",
+                        "amount": 600.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 7,
+                        "action": "Post SB",
+                        "amount": 3000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 0,
+                        "action": "Post BB",
+                        "amount": 6000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 0,
+                        "cards": [
+                            "5s",
+                            "Kh"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 1,
+                        "cards": [
+                            "Tc",
+                            "7s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 2,
+                        "cards": [
+                            "5d",
+                            "Ac"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 3,
+                        "cards": [
+                            "Jd",
+                            "Ah"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 4,
+                        "cards": [
+                            "3c",
+                            "4s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 5,
+                        "cards": [
+                            "3h",
+                            "8d"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 6,
+                        "cards": [
+                            "Kd",
+                            "2c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 7,
+                        "cards": [
+                            "Jh",
+                            "7c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 19,
+                        "player_id": 1,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 20,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 21,
+                        "player_id": 3,
+                        "action": "Raise",
+                        "amount": 12000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 22,
+                        "player_id": 4,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 23,
+                        "player_id": 5,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 24,
+                        "player_id": 6,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 25,
+                        "player_id": 7,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 26,
+                        "player_id": 0,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2024-06-21T18:23:04",
+        "table_name": "16",
+        "players": [
+            {
+                "name": "P14-354e43588aaf5ac7047420007766bc1b",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 221204.00,
+                "seat": 1
+            },
+            {
+                "name": "P61-9b802a52d2eac0f1390087c8c3f75c5a",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 143440.00,
+                "seat": 2
+            },
+            {
+                "name": "P97-1c53a82ab466e8ef99e3f5d8d6b7d4a3",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 68014.00,
+                "seat": 3
+            },
+            {
+                "name": "P101-aa50a4e347ee039f957786279caaba89",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 131846.00,
+                "seat": 4
+            },
+            {
+                "name": "P22-1c625d62e0f7397a1aa555122c519111",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 82520.00,
+                "seat": 5
+            },
+            {
+                "name": "P37-fa1b32385faac7a8441c646185f3e350",
+                "id": 5,
+                "player_bounty": 0,
+                "starting_stack": 106241.00,
+                "seat": 6
+            },
+            {
+                "name": "Hero",
+                "id": 6,
+                "player_bounty": 0,
+                "starting_stack": 280579.00,
+                "seat": 7
+            },
+            {
+                "name": "P55-dff4ba639096b9ec347646293b482f0e",
+                "id": 7,
+                "player_bounty": 0,
+                "starting_stack": 96156.00,
+                "seat": 8
+            }
+        ],
+        "game_number": "4989587954",
+        "ante_amount": 600.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 7,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "hero_player_id": 6,
+        "small_blind_amount": 3000.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 3,
+                        "win_amount": 19800.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 19800.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2024-06-21T18:23:04",
+            "type": "MTT",
+            "buyin_amount": 5.00,
+            "currency": "USD",
+            "fee_amount": 0.50,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "65174756",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 6000.00,
+        "table_size": 10
+    }
+}
+
+{
+    "ohh": {
+        "rounds": [
+            {
+                "id": 0,
+                "cards": [
+                ],
+                "street": "Preflop",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "action": "Post Ante",
+                        "amount": 2200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 1,
+                        "action": "Post Ante",
+                        "amount": 2200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 2,
+                        "action": "Post Ante",
+                        "amount": 2200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 4,
+                        "player_id": 3,
+                        "action": "Post Ante",
+                        "amount": 2200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 5,
+                        "player_id": 4,
+                        "action": "Post Ante",
+                        "amount": 2200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 6,
+                        "player_id": 5,
+                        "action": "Post Ante",
+                        "amount": 2200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 7,
+                        "player_id": 6,
+                        "action": "Post Ante",
+                        "amount": 2200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 8,
+                        "player_id": 7,
+                        "action": "Post Ante",
+                        "amount": 2200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 9,
+                        "player_id": 8,
+                        "action": "Post Ante",
+                        "amount": 2200.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 10,
+                        "player_id": 6,
+                        "action": "Post SB",
+                        "amount": 5500.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 11,
+                        "player_id": 7,
+                        "action": "Post BB",
+                        "amount": 11000.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 12,
+                        "player_id": 0,
+                        "cards": [
+                            "5h",
+                            "5s"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 13,
+                        "player_id": 1,
+                        "cards": [
+                            "2s",
+                            "Jd"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 14,
+                        "player_id": 2,
+                        "cards": [
+                            "6h",
+                            "Qc"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 15,
+                        "player_id": 3,
+                        "cards": [
+                            "3d",
+                            "4c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 16,
+                        "player_id": 4,
+                        "cards": [
+                            "Ts",
+                            "Qs"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 17,
+                        "player_id": 5,
+                        "cards": [
+                            "Qd",
+                            "Kc"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 18,
+                        "player_id": 6,
+                        "cards": [
+                            "9s",
+                            "Ad"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 19,
+                        "player_id": 7,
+                        "cards": [
+                            "9c",
+                            "3c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 20,
+                        "player_id": 8,
+                        "cards": [
+                            "7d",
+                            "7c"
+                        ],
+                        "action": "Dealt Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 21,
+                        "player_id": 8,
+                        "action": "Raise",
+                        "amount": 82288.00,
+                        "is_allin": true
+                    },
+                    {
+                        "action_number": 22,
+                        "player_id": 0,
+                        "action": "Raise",
+                        "amount": 368411.00,
+                        "is_allin": true
+                    },
+                    {
+                        "action_number": 23,
+                        "player_id": 1,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 24,
+                        "player_id": 2,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 25,
+                        "player_id": 3,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 26,
+                        "player_id": 4,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 27,
+                        "player_id": 5,
+                        "action": "Call",
+                        "amount": 368411.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 28,
+                        "player_id": 6,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 29,
+                        "player_id": 7,
+                        "action": "Fold",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "cards": [
+                    "7h",
+                    "Ah",
+                    "2c"
+                ],
+                "street": "Flop",
+                "actions": [
+                ]
+            },
+            {
+                "id": 2,
+                "cards": [
+                    "8s"
+                ],
+                "street": "Turn",
+                "actions": [
+                ]
+            },
+            {
+                "id": 3,
+                "cards": [
+                    "Js"
+                ],
+                "street": "River",
+                "actions": [
+                ]
+            },
+            {
+                "id": 4,
+                "street": "Showdown",
+                "actions": [
+                    {
+                        "action_number": 1,
+                        "player_id": 0,
+                        "cards": [
+                            "5h",
+                            "5s"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 2,
+                        "player_id": 5,
+                        "cards": [
+                            "Qd",
+                            "Kc"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    },
+                    {
+                        "action_number": 3,
+                        "player_id": 8,
+                        "cards": [
+                            "7d",
+                            "7c"
+                        ],
+                        "action": "Shows Cards",
+                        "amount": 0.00,
+                        "is_allin": false
+                    }
+                ]
+            }
+        ],
+        "game_type": "Holdem",
+        "start_date_utc": "2024-06-17T19:11:46",
+        "table_name": "1",
+        "players": [
+            {
+                "name": "P5-bcbc92f4c3f5379aa0bc7f614e6fc33c",
+                "id": 0,
+                "player_bounty": 0,
+                "starting_stack": 370611.00,
+                "seat": 1
+            },
+            {
+                "name": "P315-2002b779ef9ff35ba5dff44358d972d6",
+                "id": 1,
+                "player_bounty": 0,
+                "starting_stack": 156320.00,
+                "seat": 2
+            },
+            {
+                "name": "P840-b557e8ba8aa7a9cac1fc1e72e8d7b74d",
+                "id": 2,
+                "player_bounty": 0,
+                "starting_stack": 818877.00,
+                "seat": 3
+            },
+            {
+                "name": "P945-c2763be6be0efce2151ee52b01bac544",
+                "id": 3,
+                "player_bounty": 0,
+                "starting_stack": 88888.00,
+                "seat": 4
+            },
+            {
+                "name": "P539-8e84b7188ca6ec5f33ac782da9e2e495",
+                "id": 4,
+                "player_bounty": 0,
+                "starting_stack": 417528.00,
+                "seat": 5
+            },
+            {
+                "name": "P268-969415d910a9c138b4a39b5e35ae2733",
+                "id": 5,
+                "player_bounty": 0,
+                "starting_stack": 1315425.00,
+                "seat": 6
+            },
+            {
+                "name": "P521-cabd4e165732927e443ec8b3ab16aa56",
+                "id": 6,
+                "player_bounty": 0,
+                "starting_stack": 255652.00,
+                "seat": 7
+            },
+            {
+                "name": "Hero",
+                "id": 7,
+                "player_bounty": 0,
+                "starting_stack": 439977.00,
+                "seat": 8
+            },
+            {
+                "name": "P914-69639639b7de0ae20f91047558f06bf4",
+                "id": 8,
+                "player_bounty": 0,
+                "starting_stack": 84488.00,
+                "seat": 9
+            }
+        ],
+        "game_number": "4987453203",
+        "ante_amount": 2200.00,
+        "internal_version": "1.2.2",
+        "dealer_seat": 6,
+        "tournament_bounties": [
+        ],
+        "tournament_rebuys": [
+        ],
+        "hero_player_id": 7,
+        "small_blind_amount": 5500.00,
+        "bet_limit": {
+            "bet_cap": 0.00,
+            "bet_type": "NL"
+        },
+        "currency": "",
+        "spec_version": "1.2.2",
+        "site_name": "Ignition",
+        "pots": [
+            {
+                "rake": 0.00,
+                "number": 0,
+                "player_wins": [
+                    {
+                        "player_id": 0,
+                        "win_amount": 572246.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    },
+                    {
+                        "player_id": 8,
+                        "win_amount": 283164.00,
+                        "cashout_fee": 0.00,
+                        "cashout_amount": 0.00,
+                        "contributed_rake": 0.00
+                    }
+                ],
+                "amount": 855410.00
+            }
+        ],
+        "tournament_info": {
+            "name": "",
+            "start_date_utc": "2024-06-17T19:11:46",
+            "type": "MTT",
+            "buyin_amount": 10.00,
+            "currency": "USD",
+            "fee_amount": 1.00,
+            "bounty_fee_amount": 0.00,
+            "tournament_number": "67222081",
+            "flags": "",
+            "initial_stack": 1500,
+            "speed": {
+                "type": "Normal",
+                "round_time": 10
+            }
+        },
+        "network_name": "Ignition",
+        "flags": [
+            "Anonymous"
+        ],
+        "big_blind_amount": 11000.00,
+        "table_size": 10
+    }
+}
+

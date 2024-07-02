@@ -2,7 +2,7 @@
 1:
 output_file=output_1.txt
 range_file=test_range.txt
-hand_files=hand_1.ohh
+hand_files=example_hand_history.ohh
 
 STOP
 2:

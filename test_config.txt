@@ -1,0 +1,6 @@
+[Config]
+1:
+output_file=output_1.txt
+range_file=test_range.txt
+hand_files=test_hands_for_player_action.ohh
+

@@ -1,0 +1,105 @@
+Skipped Hands: 0
+Total Analyzed Hands: 4
+
+All-In:
+
+TT in All-In but never played.
+
+JJ in All-In but never played.
+
+QQ in All-In but never played.
+
+KK in All-In but never played.
+
+AA in All-In but never played.
+
+A2s in All-In but never played.
+
+A3s in All-In but never played.
+
+A4s in All-In but never played.
+
+A5s in All-In but never played.
+
+A6s in All-In but never played.
+
+A7s in All-In but never played.
+
+A8s in All-In but never played.
+
+A9s in All-In but never played.
+
+ATs in All-In but never played.
+
+AJs in All-In but never played.
+
+AQs in All-In but never played.
+
+AKs in All-In but never played.
+
+Q5s in All-In but never played.
+
+Q6s in All-In but never played.
+
+Q7s in All-In but never played.
+
+Q8s in All-In but never played.
+
+K3o:
+Inputted action: All-In, played 1 times.
+Played Fold 1 times. 100.0%
+
+Raise:
+
+QTo in Raise but never played.
+
+JTo in Raise but never played.
+
+K2o:
+Inputted action: Raise, played 1 times.
+Played Fold 1 times. 100.0%
+
+Limp:
+
+K2s in Limp but never played.
+
+K3s in Limp but never played.
+
+K4s in Limp but never played.
+
+K5s in Limp but never played.
+
+K6s in Limp but never played.
+
+K7s in Limp but never played.
+
+K8s in Limp but never played.
+
+K9s in Limp but never played.
+
+KTs in Limp but never played.
+
+KJs in Limp but never played.
+
+KQs in Limp but never played.
+
+22 in Limp but never played.
+
+55 in Limp but never played.
+
+66 in Limp but never played.
+
+77 in Limp but never played.
+
+88 in Limp but never played.
+
+T7o:
+Inputted action: Limp, played 1 times.
+Played Fold 1 times. 100.0%
+
+Hands found that were NOT in range:
+
+T5o:
+Inputted action: Fold, played 1 times.
+Played Fold 1 times. 100.0%
+
